@@ -1,0 +1,27 @@
+{
+  "name": "webpack-rtd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turizsolt/webpack-react-typescript-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turizsolt/webpack-react-typescript-dummy/issues"
+  },
+  "homepage": "https://github.com/turizsolt/webpack-react-typescript-dummy#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.1",
+    "@types/react-dom": "^16.0.6"
+  }
+}
